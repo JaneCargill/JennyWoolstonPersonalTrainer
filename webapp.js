@@ -3,7 +3,7 @@ var url = require('url');
 var show = require('./show');
 
 
-http.createServer(onRequest).listen(3000);
+http.createServer(onRequest).listen(process.env.PORT || 5000);
 console.log('Server has started');
 
 /*function onRequest(request, response){
