@@ -1,0 +1,22 @@
+{
+  "name": "jennywoolstonpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "7.7.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaneCargill/JennyWoolston.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaneCargill/JennyWoolston/issues"
+  },
+  "homepage": "https://github.com/JaneCargill/JennyWoolston#readme"
+}
