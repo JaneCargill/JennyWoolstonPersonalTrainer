@@ -22,4 +22,9 @@
   "dependencies": {
     "express": "^4.16.2"
   }
+
+  {
+  "start": "cross-env NODE_ENV=production node compiled/webapp.js",
+  "heroku-postbuild": "npm run build"
+  }
 }
