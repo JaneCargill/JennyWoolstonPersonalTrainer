@@ -23,8 +23,8 @@
     "express": "^4.16.2"
   },
 
-  {
+  /*{
   "start": "node webapp.js",
   "heroku-postbuild": "npm run build"
-  }
+  }*/
 }
