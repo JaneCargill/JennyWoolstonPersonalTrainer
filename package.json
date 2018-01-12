@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JaneCargill/JennyWoolston.git"
+    "url": "git+https://github.com/JaneCargill/JennyWoolstonPersonalTrainer.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JaneCargill/JennyWoolston/issues"
+    "url": "https://github.com/JaneCargill/JennyWoolstonPersonalTrainer/issues"
   },
-  "homepage": "https://github.com/JaneCargill/JennyWoolston#readme",
+  "homepage": "https://github.com/JaneCargill/JennyWoolstonPersonalTrainer#readme",
   "dependencies": {
     "express": "^4.16.2"
   },
