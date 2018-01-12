@@ -2,7 +2,7 @@ var content = require('./content');
 
 function showPage(response, pathName){
   if(content.contentMap [pathName]){
-    response.writeHead(200, {'Content-Type': 'public/index.html'})
+    response.writeHead(200, {'Content-Type': 'text/html'})
     response.write(content.contentMap[pathName]);
     response.end();
    }else {
