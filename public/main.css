@@ -5,7 +5,9 @@ body{
 }
 
 .nav {
-  background-color:rgb(0,0,0);background-image:url('../images/header.png');background-position:top left;background-repeat:repeat;background-attachment:fixed;
+  background-color:rgb(0,0,0);background-image:url("header.jpg")
+  ;background-position:top left;
+  background-repeat:repeat;background-attachment:fixed;
   /*border: 2px solid white;*/
   display: flex;
   flex-direction: row;
@@ -65,7 +67,8 @@ h3, h1, p{
 }
 
 .container {
-  background-color:rgb(0,0,0);background-image:url('../images/header.png');background-position:top left;background-repeat:repeat;background-attachment:fixed;
+  background-color:rgb(0,0,0);background-image:url("header.jpg");
+  background-position:top left;background-repeat:repeat;background-attachment:fixed;
   /*border: 2px solid mediumaquamarine;*/
   display: flex;
   justify-content: center;
@@ -93,7 +96,7 @@ h3, h1, p{
 }
 
 .GetFit {
-  background-color:rgb(0,0,0);background-image:url('../images/header.png');background-position:top left;background-repeat:repeat;background-attachment:fixed;
+  background-color:rgb(0,0,0);background-image:url("header.jpg");background-position:top left;background-repeat:repeat;background-attachment:fixed;
   position: relative;
   display: flex;
   margin-top: 50px;
@@ -105,7 +108,9 @@ h3, h1, p{
 }
 
 .Contact {
-  background-color:rgb(0,0,0);background-image:url('../images/header.png');background-position:top left;background-repeat:repeat;background-attachment:fixed;
+  background-color:rgb(0,0,0);background-image:url("header.jpg");
+  /*('../views/images/header.png')*/
+  background-position:bottom left;background-repeat:repeat-x;background-attachment:fixed;
   position: relative;
   display: flex;
   margin-top: 50px;
@@ -117,7 +122,7 @@ h3, h1, p{
 }
 
 .Something {
-  background-color:rgb(0,0,0);background-image:url('../images/header.png');background-position:top left;background-repeat:repeat;background-attachment:fixed;
+  background-color:rgb(0,0,0);background-image:url("header.jpg");background-position:top left;background-repeat:repeat;background-attachment:fixed;
   position: relative;
   display: flex;
   margin-top: 50px;

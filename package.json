@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/JaneCargill/JennyWoolston/issues"
   },
-  "homepage": "https://github.com/JaneCargill/JennyWoolston#readme"
+  "homepage": "https://github.com/JaneCargill/JennyWoolston#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }

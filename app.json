@@ -5,5 +5,5 @@
   "type": "git",
   "url": "git+https://github.com/JaneCargill/JennyWoolston.git"
 "logo":
-"keywords": ["node"]
-"image": 
+"keywords": ["node", "express", "heroku"]
+"image": "./views/images"
