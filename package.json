@@ -24,7 +24,7 @@
   },
 
   {
-  "start": "cross-env NODE_ENV=production node webapp.js",
+  "start": "node webapp.js",
   "heroku-postbuild": "npm run build"
   }
 }
