@@ -107,7 +107,7 @@ h3, h1, p{
   margin-top: 70px;
 }
 
-.Contact {
+.ContactSection {
   background-color:rgb(0,0,0);background-image:url("header.jpg");
   /*('../views/images/header.png')*/
   background-position:bottom left;background-repeat:repeat-x;background-attachment:fixed;
@@ -117,7 +117,7 @@ h3, h1, p{
 
 }
 
-.Contact p{
+.ContactSection p{
   margin-top: 70px;
 }
 
